@@ -1,0 +1,2 @@
+$resourceGroup='poc'
+$location='SouthCentralUS'
